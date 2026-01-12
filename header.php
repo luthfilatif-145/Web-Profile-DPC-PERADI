@@ -1,5 +1,4 @@
 <?php
-// ✅ FIX: Cek apakah koneksi database sudah ada & tabel running_text exist
 $running_texts = [];
 
 if(isset($conn)) {
