@@ -74,4 +74,4 @@ A website for DPC PERADI Pontianak (Indonesian Advocates Association, Pontianak 
 ## Contributors
 
 - Luthfi Latif - [GitHub](https://github.com/luthfilatif-145)
-- [Alvonda47](https://github.com/Alvonda47)
+
